@@ -1,6 +1,5 @@
 # Commander
 
-[![Go package](https://github.com/efureev/go-commander/actions/workflows/go.yml/badge.svg)](https://github.com/efureev/go-commander/actions/workflows/go.yml)
 [![Go Report Card](https://goreportcard.com/badge/github.com/efureev/go-commander)](https://goreportcard.com/report/github.com/efureev/go-commander)
 ![GitHub go.mod Go version](https://img.shields.io/github/go-mod/go-version/efureev/go-commander)
 ![GitHub release (latest by date)](https://img.shields.io/github/v/release/efureev/go-commander)
