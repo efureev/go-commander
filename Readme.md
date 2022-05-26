@@ -5,6 +5,8 @@
 ![GitHub release (latest by date)](https://img.shields.io/github/v/release/efureev/go-commander)
 ![GitHub](https://img.shields.io/github/license/efureev/go-commander)
 
+Command executor
+
 ## Installation
 
 ```shell
