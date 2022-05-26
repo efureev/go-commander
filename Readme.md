@@ -51,5 +51,4 @@ func cmdFinish(t string) *commander.Command {
 			return nil
 		})
 }
-
 ```
