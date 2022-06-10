@@ -34,8 +34,12 @@ func (c Commander) HasError() bool {
 	return c.error != nil
 }
 
-func (c Commander) Error() error {
+func (c Commander) GetError() error {
 	return c.error
+}
+
+func (c Commander) Error() string {
+	return c.error.Error()
 }
 
 func (c *Commander) updateCtx(ctx context.Context) {
